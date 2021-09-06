@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+	</style> 
+	<link type="text/css" rel="stylesheet" href="stylesheet.css">
+	<link rel="icon" href="img/favicon.png">
+	<title>Pierre Deroudilhe &#x2758; Accueil</title>
+</head>
+<body>
+	<div class="header">
+			<h1 class="title"><a class="no_underline" href="">Yann Chérel Mariné</a></h1>
+			<h2 class="title">Articles et productions</h2>
+			<h3 class="nav"><a href="pages/cv.html">Mon CV</a> &#x2758; <a href="pages/m1.html">Première année</a></h3>
+	</div>
+	<div class="body">
+		<h2>Qui suis-je...</h2>
+		<p>
+ Il va falloir préciser ! 
+ </p>
+		<img src="img/image_index.png" width="100%">
+		<h3>Par catégories, les articles que j'ai écrit depuis le début de mon master</h3>
+		<p>
+			A VENIR Ma deuxième année de master&nbsp;;
+		</p>
+		<p>
+			<a class="high_link" href="pages/le-telegramme.html">Mon stage d'été à la rédaction locale de Lorient du Télégramme&nbsp;;</a>
+		</p>
+		<p>
+			<a class="high_link" href="pages/m1.html">M1 dans le double master entre Sciences Po Lyon et le CFJ.</a>
+		</p>
+	</div>
+	<div class="footer">
+		<p>
+			&copy; Yann Chérel Mariné
+		</p>		
+	</div>
+</body>
+</html>
